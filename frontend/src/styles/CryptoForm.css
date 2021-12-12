@@ -1,0 +1,64 @@
+.crypto__form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin: 3rem 0;
+}
+
+.crypto__form--heading {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+}
+
+.crypto__form .cta {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.crypto__form .cta .cta__button {
+  padding: 0.4rem 2.3rem;
+  font-size: 1.7rem;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.crypto__form .cta .cta__button--success {
+  background-color: #00c853;
+}
+
+.crypto__form .cta .cta__button--success:hover {
+  background-color: #03aa49;
+}
+
+.crypto__form .cta .cta__button--success:disabled {
+  background-color: #90ee90;
+}
+
+.crypto__form .cta .cta__button--danger {
+  background-color: #ff5252;
+}
+
+.crypto__form .cta .cta__button--danger:hover {
+  background-color: #ff2d2d;
+}
+
+.crypto__form .cta .cta__button--danger:disabled {
+  background-color: #fd9292;
+}
+/*# sourceMappingURL=CryptoForm.css.map */

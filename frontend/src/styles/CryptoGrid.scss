@@ -1,0 +1,12 @@
+.crypto__grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 4rem 3rem;
+  margin: 2rem 0 5rem;
+}
+.heading {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #aaa;
+}

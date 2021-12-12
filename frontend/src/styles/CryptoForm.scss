@@ -1,0 +1,44 @@
+.crypto__form {
+  display: flex;
+  flex-direction: column;
+  margin: 3rem 0;
+
+  &--heading {
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+  }
+
+  .cta {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    .cta__button {
+      padding: 0.4rem 2.3rem;
+      font-size: 1.7rem;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+
+      &--success {
+        background-color: #00c853;
+      }
+      &--success:hover {
+        background-color: #03aa49;
+      }
+      &--success:disabled {
+        background-color: #90ee90;
+      }
+      &--danger {
+        background-color: #ff5252;
+      }
+      &--danger:hover {
+        background-color: #ff2d2d;
+      }
+      &--danger:disabled {
+        background-color: #fd9292;
+      }
+    }
+  }
+}

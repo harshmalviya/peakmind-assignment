@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAC;EACZ,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,cAAc;EACrC,GAAG,EAAE,SAAS;EACd,MAAM,EAAE,WAAW;CACpB;;AACD,AAAA,QAAQ,CAAC;EACP,SAAS,EAAE,MAAM;EACjB,WAAW,EAAE,GAAG;EAChB,aAAa,EAAE,IAAI;EACnB,KAAK,EAAE,IAAI;CACZ",
+    "sources": [
+        "CryptoGrid.scss"
+    ],
+    "names": [],
+    "file": "CryptoGrid.css"
+}

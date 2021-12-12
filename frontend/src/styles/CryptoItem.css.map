@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAC;EACZ,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,aAAa;EAC9B,KAAK,EAAE,GAAG;EACV,SAAS,EAAE,MAAM;EACjB,gBAAgB,EAAE,OAAO;EACzB,OAAO,EAAE,SAAS;EAClB,WAAW,EAAE,GAAG;EAChB,MAAM,EAAE,OAAO;CAChB",
+    "sources": [
+        "CryptoItem.scss"
+    ],
+    "names": [],
+    "file": "CryptoItem.css"
+}

@@ -1,0 +1,18 @@
+.crypto__item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 50%;
+  font-size: 1.8rem;
+  background-color: #c4c4c4;
+  padding: 1rem 2rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+/*# sourceMappingURL=CryptoItem.css.map */
